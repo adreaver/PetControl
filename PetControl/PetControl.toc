@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 90200
 ## Title: PetControl
 ## Notes: Adds a one-button Pet Command function. Include it in your macros with "/click PetControl"
 ## Version: 1.1a
