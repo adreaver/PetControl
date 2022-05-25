@@ -1,7 +1,7 @@
 -- PetControl Core
 local PetControl = CreateFrame("Button","PetControl",nil,"SecureActionButtonTemplate")
 local core_macro_text =[[
-/petmoveto [mod:alt,@cursor]
+/petmoveto [mod:alt]
 /petfollow [mod:ctrl]
 /stopmacro [mod]
 /petassist
